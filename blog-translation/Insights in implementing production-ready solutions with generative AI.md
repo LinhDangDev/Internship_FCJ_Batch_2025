@@ -1,57 +1,12 @@
 <!-- markdownlint-disable MD041 -->
 <!-- spell-checker: disable -->
 
-<style>
-.justify-text {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-p {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
-/* Author table styling */
-.author-table {
-    border: 2px solid #e1e5e9;
-    border-radius: 10px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    overflow: hidden;
-    width: 100%;
-}
-
-.author-table td {
-    padding: 20px;
-    vertical-align: top;
-    border: none;
-}
-
-.author-table img {
-    border-radius: 50%;
-    border: 3px solid #f0f0f0;
-}
-
-.author-table h4 {
-    margin-top: 0;
-    margin-bottom: 10px;
-    color: #232f3e;
-}
-
-.author-table p {
-    margin-bottom: 8px;
-    line-height: 1.6;
-}
-</style>
 
 # 🚀 Những Hiểu Biết Sâu Sắc Trong Việc Triển Khai Các Giải Pháp Production-Ready Với Generative AI
 
 <div align="center">
 
-![AWS Generative AI](https://img.shields.io/badge/AWS-Generative%20AI-orange?style=for-the-badge&logo=amazon-aws)
-![Production Ready](https://img.shields.io/badge/Production-Ready-green?style=for-the-badge)
-![EMEA Region](https://img.shields.io/badge/Region-EMEA-blue?style=for-the-badge)
+![AWS Generative AI](https://img.shields.io/badge/AWS-Generative%20AI-orange?style=for-the-badge&logo=amazon-aws) ![Production Ready](https://img.shields.io/badge/Production-Ready-green?style=for-the-badge) ![EMEA Region](https://img.shields.io/badge/Region-EMEA-blue?style=for-the-badge)
 
 </div>
 
@@ -61,12 +16,12 @@ p {
 
 | 📖 **Bài viết gốc** | [Insights in implementing production-ready solutions with generative AI](https://aws.amazon.com/blogs/machine-learning/insights-in-implementing-production-ready-solutions-with-generative-ai/) |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 👤 **Tác giả**      | Giorgio Pessot, Amer Elhabbash, Aamna Najmi, Anwar Rizal, Dragica Boca, Subhro Bose, Sri Elaprolu, Hassen Riahi, Marco Guerriero, Nicolo Cosimo Albanese, Diar Sabri, and Daniel Zagyva |
-| 📅 **Ngày xuất bản** | 30/04/2025 |
-| 🌐 **Nguồn**        | [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/) |
-| 👨‍💻 **Người dịch**   | **Linh Dang Dev** - FCJ Intern |
-| 📅 **Ngày dịch**     | 02/07/2025 |
-| ⏱️ **Thời gian đọc** | 10 phút |
+| 👤 **Tác giả**      | *Giorgio Pessot, Amer Elhabbash, Aamna Najmi, Anwar Rizal, Dragica Boca, Subhro Bose, Sri Elaprolu, Hassen Riahi, Marco Guerriero, Nicolo Cosimo Albanese, Diar Sabri, and Daniel Zagyva* |
+| 📅 **Ngày xuất bản** | *30/04/2025* |
+| 🌐 **Nguồn**        | *[AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/)* |
+| 👨‍💻 **Người dịch**   | ***Linh Dang Dev** - FCJ Intern* |
+| 📅 **Ngày dịch**     | *02/07/2025* |
+| ⏱️ **Thời gian đọc** | *10 phút* |
 
 ---
 
@@ -144,11 +99,9 @@ Các công ty tại EMEA đã sử dụng các dịch vụ AWS để chuyển đ
 
 ### 📰 2.1 Case Study: Il Sole 24 Ore
 
-<div align="center">
+<div align="left">
 
-![Il Sole 24 Ore](https://img.shields.io/badge/Company-Il%20Sole%2024%20Ore-red?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Media%20%26%20Publishing-blue?style=flat-square)
-![Country](https://img.shields.io/badge/Country-Italy-green?style=flat-square)
+![Il Sole 24 Ore](https://img.shields.io/badge/Company-Il%20Sole%2024%20Ore-red?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Media%20%26%20Publishing-blue?style=flat-square) ![Country](https://img.shields.io/badge/Country-Italy-green?style=flat-square)
 
 </div>
 
@@ -168,11 +121,9 @@ Các công ty tại EMEA đã sử dụng các dịch vụ AWS để chuyển đ
 
 ### 🏨 2.2 Case Study: Booking.com
 
-<div align="center">
+<div align="left">
 
-![Booking.com](https://img.shields.io/badge/Company-Booking.com-blue?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Travel%20%26%20Hospitality-orange?style=flat-square)
-![Scale](https://img.shields.io/badge/Scale-Global-purple?style=flat-square)
+![Booking.com](https://img.shields.io/badge/Company-Booking.com-blue?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Travel%20%26%20Hospitality-orange?style=flat-square) ![Scale](https://img.shields.io/badge/Scale-Global-purple?style=flat-square)
 
 </div>
 
@@ -196,13 +147,7 @@ Các công ty tại EMEA đã sử dụng các dịch vụ AWS để chuyển đ
 
 ### ⚡ 2.3 Case Study: ENGIE
 
-<div align="center">
-
-![ENGIE](https://img.shields.io/badge/Company-ENGIE-green?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Energy%20%26%20Utilities-yellow?style=flat-square)
-![Scale](https://img.shields.io/badge/Scale-25%20Business%20Units-red?style=flat-square)
-
-</div>
+![ENGIE](https://img.shields.io/badge/Company-ENGIE-green?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Energy%20%26%20Utilities-yellow?style=flat-square) ![Scale](https://img.shields.io/badge/Scale-25%20Business%20Units-red?style=flat-square)
 
 **🏢 Tổng quan:** [ENGIE](https://www.engie.com/en) là một công ty điện lực và tiện ích toàn cầu, với **25 đơn vị kinh doanh** đang hoạt động trên toàn thế giới.
 
@@ -282,11 +227,9 @@ Việc áp dụng các phương pháp phát triển tốt nhất theo tiêu chu�
 
 #### 🚗 Case Study: Iveco Group
 
-<div align="center">
+<div align="left">
 
-![Iveco Group](https://img.shields.io/badge/Company-Iveco%20Group-red?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Automotive-blue?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-DevOps%20%26%20IaC-green?style=flat-square)
+![Iveco Group](https://img.shields.io/badge/Company-Iveco%20Group-red?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Automotive-blue?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-DevOps%20%26%20IaC-green?style=flat-square)
 
 </div>
 
@@ -309,11 +252,9 @@ Việc áp dụng các phương pháp phát triển tốt nhất theo tiêu chu�
 
 #### 🏨 Case Study: Accor Group
 
-<div align="center">
+<div align="left">
 
-![Accor Group](https://img.shields.io/badge/Company-Accor%20Group-purple?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Hospitality-orange?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Testing%20%26%20Quality-green?style=flat-square)
+![Accor Group](https://img.shields.io/badge/Company-Accor%20Group-purple?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Hospitality-orange?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Testing%20%26%20Quality-green?style=flat-square)
 
 </div>
 
@@ -338,11 +279,9 @@ Việc áp dụng các phương pháp phát triển tốt nhất theo tiêu chu�
 
 #### 🏦 Case Study: Danske Bank
 
-<div align="center">
+<div align="left">
 
-![Danske Bank](https://img.shields.io/badge/Company-Danske%20Bank-blue?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Banking-green?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Cloud%20Migration-orange?style=flat-square)
+![Danske Bank](https://img.shields.io/badge/Company-Danske%20Bank-blue?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Banking-green?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Cloud%20Migration-orange?style=flat-square)
 
 </div>
 
@@ -368,11 +307,9 @@ Việc áp dụng các phương pháp phát triển tốt nhất theo tiêu chu�
 
 #### ⚙️ Case Study: Schaeffler Group
 
-<div align="center">
+<div align="left">
 
-![Schaeffler Group](https://img.shields.io/badge/Company-Schaeffler%20Group-red?style=flat-square)
-![Industry](https://img.shields.io/badge/Industry-Motion%20Technology-blue?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-75%2B%20Years-gold?style=flat-square)
+![Schaeffler Group](https://img.shields.io/badge/Company-Schaeffler%20Group-red?style=flat-square) ![Industry](https://img.shields.io/badge/Industry-Motion%20Technology-blue?style=flat-square) ![Experience](https://img.shields.io/badge/Experience-75%2B%20Years-gold?style=flat-square)
 
 </div>
 
@@ -421,10 +358,9 @@ Khi các ứng dụng AI tạo sinh của tổ chức mở rộng và xử lý n
 
 #### 📰 Il Sole 24 Ore - Responsible AI Framework
 
-<div align="center">
+<div align="left">
 
-![Responsible AI](https://img.shields.io/badge/Focus-Responsible%20AI-green?style=flat-square)
-![Legal Compliance](https://img.shields.io/badge/Compliance-Legal%20%26%20Tax-blue?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Focus-Responsible%20AI-green?style=flat-square) ![Legal Compliance](https://img.shields.io/badge/Compliance-Legal%20%26%20Tax-blue?style=flat-square)
 
 </div>
 
@@ -476,183 +412,41 @@ Khám phá thêm các [ví dụ ứng dụng generative AI](https://aws.amazon.c
 </div>
 
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/georgio-1.jpg" alt="Dr. Giorgio Pessot" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🔬 Dr. Giorgio Pessot</h4>
-<p><strong>Machine Learning Engineer</strong> at Amazon Web Services Professional Services</p>
-<p>📚 <strong>Background:</strong> Computational Physics<br>
-🎯 <strong>Specialization:</strong> Enterprise-grade AI systems, Mathematical theory, DevOps, Cloud technologies<br>
-👨‍🍳 <strong>Fun fact:</strong> Engineering culinary creations in his kitchen when not building cloud solutions</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/georgio-1.jpg" alt="Dr. Giorgio Pessot" width="100"> | **🔬 Dr. Giorgio Pessot**<br>**Machine Learning Engineer** at Amazon Web Services Professional Services<br><br>📚 **Background:** Computational Physics<br>🎯 **Specialization:** Enterprise-grade AI systems, Mathematical theory, DevOps, Cloud technologies<br>👨‍🍳 **Fun fact:** Engineering culinary creations in his kitchen when not building cloud solutions |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/14/image002.jpg" alt="Daniel Zagyva" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>⚙️ Daniel Zagyva</h4>
-<p><strong>Senior ML Engineer</strong> at AWS Professional Services</p>
-<p>🎯 <strong>Specialization:</strong> Scalable, production-grade machine learning solutions<br>
-🔧 <strong>Expertise:</strong> Natural language processing, Generative AI, Machine learning operations</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/14/image002.jpg" alt="Daniel Zagyva" width="100"> | **⚙️ Daniel Zagyva**<br>**Senior ML Engineer** at AWS Professional Services<br><br>🎯 **Specialization:** Scalable, production-grade machine learning solutions<br>🔧 **Expertise:** Natural language processing, Generative AI, Machine learning operations |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/nicolo.png" alt="Nicolò Cosimo Albanese" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>📊 Nicolò Cosimo Albanese</h4>
-<p><strong>Data Scientist and Machine Learning Engineer</strong> at Amazon Web Services Professional Services</p>
-<p>🎓 <strong>Education:</strong> Master of Science in Engineering, Postgraduate degrees in Machine Learning and Biostatistics<br>
-🎯 <strong>Specialization:</strong> AI/ML solutions for enterprise customers, Statistical modeling, Cloud technologies</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/nicolo.png" alt="Nicolò Cosimo Albanese" width="100"> | **📊 Nicolò Cosimo Albanese**<br>**Data Scientist and Machine Learning Engineer** at Amazon Web Services Professional Services<br><br>🎓 **Education:** Master of Science in Engineering, Postgraduate degrees in Machine Learning and Biostatistics<br>🎯 **Specialization:** AI/ML solutions for enterprise customers, Statistical modeling, Cloud technologies |
+|---|---|
 
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/bose.png" alt="Subhro Bose" width="100"> | **🏗️ Subhro Bose**<br>**Data Architect** in Emergent Technologies and Intelligence Platform at Amazon<br><br>🎯 **Focus:** Emergent technologies (AI/ML, Big Data, Quantum)<br>💼 **Mission:** Helping businesses across different industry verticals succeed in their innovation journey |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/bose.png" alt="Subhro Bose" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🏗️ Subhro Bose</h4>
-<p><strong>Data Architect</strong> in Emergent Technologies and Intelligence Platform at Amazon</p>
-<p>🎯 <strong>Focus:</strong> Emergent technologies (AI/ML, Big Data, Quantum)<br>
-💼 <strong>Mission:</strong> Helping businesses across different industry verticals succeed in their innovation journey</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/diar.jpg" alt="Diar Sabri" width="100"> | **🤖 Diar Sabri**<br>**Machine Learning Engineer** at AWS<br><br>🎯 **Specialization:** Business transformation through innovative AI solutions<br>🌉 **Expertise:** Bridging strategic vision and practical technology implementation |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/diar.jpg" alt="Diar Sabri" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🤖 Diar Sabri</h4>
-<p><strong>Machine Learning Engineer</strong> at AWS</p>
-<p>🎯 <strong>Specialization:</strong> Business transformation through innovative AI solutions<br>
-🌉 <strong>Expertise:</strong> Bridging strategic vision and practical technology implementation</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/amna.jpg" alt="Aamna Najmi" width="100"> | **🧠 Aamna Najmi**<br>**GenAI and Data Specialist** at AWS<br><br>🎯 **Focus:** Operationalizing and governing generative AI systems at scale<br>🛡️ **Standards:** Performance, safety, and ethical considerations<br>🍽️ **Passion:** Experimenting with food and discovering new places |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/amna.jpg" alt="Aamna Najmi" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🧠 Aamna Najmi</h4>
-<p><strong>GenAI and Data Specialist</strong> at AWS</p>
-<p>🎯 <strong>Focus:</strong> Operationalizing and governing generative AI systems at scale<br>
-🛡️ <strong>Standards:</strong> Performance, safety, and ethical considerations<br>
-🍽️ <strong>Passion:</strong> Experimenting with food and discovering new places</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/14/image007-1.jpg" alt="Anwar Rizal" width="100"> | **🇫🇷 Anwar Rizal**<br>**Senior Machine Learning Consultant** for AWS Professional Services (Paris)<br><br>🎯 **Focus:** Data and AI solutions for sustainable business growth<br>🌍 **Location:** Based in Paris, France |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/14/image007-1.jpg" alt="Anwar Rizal" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🇫🇷 Anwar Rizal</h4>
-<p><strong>Senior Machine Learning Consultant</strong> for AWS Professional Services (Paris)</p>
-<p>🎯 <strong>Focus:</strong> Data and AI solutions for sustainable business growth<br>
-🌍 <strong>Location:</strong> Based in Paris, France</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/amer.jpg" alt="Amer Elhabbash" width="100"> | **💼 Amer Elhabbash**<br>**Senior Data & AI Delivery Consultant** with AWS Professional Services<br><br>📅 **Experience:** 25+ years of international experience in IT<br>🔧 **Domains:** Telecommunication, Software Engineering, Database, Data Analytics and AI<br>🎯 **Specialization:** Legacy data systems migration and cloud-native data-driven solutions |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/amer.jpg" alt="Amer Elhabbash" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>💼 Amer Elhabbash</h4>
-<p><strong>Senior Data & AI Delivery Consultant</strong> with AWS Professional Services</p>
-<p>📅 <strong>Experience:</strong> 25+ years of international experience in IT<br>
-🔧 <strong>Domains:</strong> Telecommunication, Software Engineering, Database, Data Analytics and AI<br>
-🎯 <strong>Specialization:</strong> Legacy data systems migration and cloud-native data-driven solutions</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/hassen.jpg" alt="Hassen Riahi" width="100"> | **🎓 Hassen Riahi**<br>**Delivery Practice Manager Data & AI** at AWS Professional Services<br><br>🎓 **Education:** PhD in Mathematics & Computer Science on large-scale data management<br>🤝 **Role:** Collaborates with AWS customers to build data-driven solutions |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/hassen.jpg" alt="Hassen Riahi" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🎓 Hassen Riahi</h4>
-<p><strong>Delivery Practice Manager Data & AI</strong> at AWS Professional Services</p>
-<p>🎓 <strong>Education:</strong> PhD in Mathematics & Computer Science on large-scale data management<br>
-🤝 <strong>Role:</strong> Collaborates with AWS customers to build data-driven solutions</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/Marco.jpg" alt="Dr. Marco Guerriero" width="100"> | **🔬 Dr. Marco Guerriero**<br>**Leader of Data and GenAI** at AWS Professional Services for France and Europe South<br><br>🎓 **Education:** Ph.D. in Electrical and Computer Engineering from University of Connecticut<br>🏢 **Experience:** NATO, GE, ABB across defense, manufacturing, energy, and industrial automation<br>📚 **Publications:** 60+ publications and 5 US patents<br>🎯 **Focus:** GenAI and Quantum computing for business innovation |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/Marco.jpg" alt="Dr. Marco Guerriero" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🔬 Dr. Marco Guerriero</h4>
-<p><strong>Leader of Data and GenAI</strong> at AWS Professional Services for France and Europe South</p>
-<p>🎓 <strong>Education:</strong> Ph.D. in Electrical and Computer Engineering from University of Connecticut<br>
-🏢 <strong>Experience:</strong> NATO, GE, ABB across defense, manufacturing, energy, and industrial automation<br>
-📚 <strong>Publications:</strong> 60+ publications and 5 US patents<br>
-🎯 <strong>Focus:</strong> GenAI and Quantum computing for business innovation</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/Sri-Elaprolu.jpg" alt="Sri Elaprolu" width="100"> | **🚀 Sri Elaprolu**<br>**Director** of the AWS Generative AI Innovation Center<br><br>👥 **Leadership:** Global team implementing cutting-edge AI solutions for enterprise and government<br>📅 **AWS Tenure:** 12 years leading ML science teams<br>🤝 **Partners:** NFL, Cerner, NASA<br>🎓 **Education:** Master's in Engineering Science and MBA<br>🏢 **Previous:** 14 years at Northrop Grumman |
+|---|---|
 
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/Sri-Elaprolu.jpg" alt="Sri Elaprolu" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🚀 Sri Elaprolu</h4>
-<p><strong>Director</strong> of the AWS Generative AI Innovation Center</p>
-<p>👥 <strong>Leadership:</strong> Global team implementing cutting-edge AI solutions for enterprise and government<br>
-📅 <strong>AWS Tenure:</strong> 12 years leading ML science teams<br>
-🤝 <strong>Partners:</strong> NFL, Cerner, NASA<br>
-🎓 <strong>Education:</strong> Master's in Engineering Science and MBA<br>
-🏢 <strong>Previous:</strong> 14 years at Northrop Grumman</p>
-</td>
-</tr>
-</table>
-
-<table class="author-table">
-<tr>
-<td width="120">
-<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/boca.jpg" alt="Dragica Boca" width="100" style="border-radius: 50%;">
-</td>
-<td>
-<h4>🌍 Dragica Boca</h4>
-<p><strong>Managing Director</strong> of Professional Services EMEA at Amazon Web Services (AWS)</p>
-<p>📅 <strong>Experience:</strong> 30 years of technology consulting across Microsoft and IBM Global Business Services<br>
-🎯 <strong>Specialization:</strong> Production-ready AI solutions for Public Sector and Financial Services<br>
-🌍 <strong>Current Role:</strong> Overseeing large-scale GenAI implementations across EMEA</p>
-</td>
-</tr>
-</table>
+| <img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/boca.jpg" alt="Dragica Boca" width="100"> | **🌍 Dragica Boca**<br>**Managing Director** of Professional Services EMEA at Amazon Web Services (AWS)<br><br>📅 **Experience:** 30 years of technology consulting across Microsoft and IBM Global Business Services<br>🎯 **Specialization:** Production-ready AI solutions for Public Sector and Financial Services<br>🌍 **Current Role:** Overseeing large-scale GenAI implementations across EMEA |
+|---|---|
 
 ---
 
