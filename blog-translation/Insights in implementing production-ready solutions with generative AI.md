@@ -11,6 +11,38 @@ p {
     text-align: justify;
     text-justify: inter-word;
 }
+
+/* Author table styling */
+.author-table {
+    border: 2px solid #e1e5e9;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    overflow: hidden;
+    width: 100%;
+}
+
+.author-table td {
+    padding: 20px;
+    vertical-align: top;
+    border: none;
+}
+
+.author-table img {
+    border-radius: 50%;
+    border: 3px solid #f0f0f0;
+}
+
+.author-table h4 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #232f3e;
+}
+
+.author-table p {
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
 </style>
 
 # 🚀 Những Hiểu Biết Sâu Sắc Trong Việc Triển Khai Các Giải Pháp Production-Ready Với Generative AI
@@ -38,7 +70,8 @@ p {
 
 ---
 
-## 📋 Tóm tắt
+
+## �📋 Tóm tắt
 
 > **💡 Executive Summary**
 >
@@ -60,7 +93,8 @@ p {
 <details>
 <summary><strong>🔍 Click để xem chi tiết</strong></summary>
 
-- [🚀 1. Giới thiệu](#1-giới-thiệu)
+- [� About the Authors](#about-the-authors)
+- [�🚀 1. Giới thiệu](#1-giới-thiệu)
 - [💼 2. Xây dựng Business Case vững chắc](#2-xây-dựng-business-case-vững-chắc)
   - [📰 2.1 Case Study: Il Sole 24 Ore](#21-case-study-il-sole-24-ore)
   - [🏨 2.2 Case Study: Booking.com](#22-case-study-bookingcom)
@@ -433,7 +467,196 @@ Khám phá thêm các [ví dụ ứng dụng generative AI](https://aws.amazon.c
 
 ---
 
-## 📖 Glossary - Thuật ngữ
+## � Tác giả
+
+<div align="center">
+
+> *"Đội ngũ tác giả đa quốc gia với chuyên môn sâu rộng trong lĩnh vực AI/ML và Cloud Computing"*
+
+</div>
+
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/georgio-1.jpg" alt="Dr. Giorgio Pessot" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🔬 Dr. Giorgio Pessot</h4>
+<p><strong>Machine Learning Engineer</strong> at Amazon Web Services Professional Services</p>
+<p>📚 <strong>Background:</strong> Computational Physics<br>
+🎯 <strong>Specialization:</strong> Enterprise-grade AI systems, Mathematical theory, DevOps, Cloud technologies<br>
+👨‍🍳 <strong>Fun fact:</strong> Engineering culinary creations in his kitchen when not building cloud solutions</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/14/image002.jpg" alt="Daniel Zagyva" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>⚙️ Daniel Zagyva</h4>
+<p><strong>Senior ML Engineer</strong> at AWS Professional Services</p>
+<p>🎯 <strong>Specialization:</strong> Scalable, production-grade machine learning solutions<br>
+🔧 <strong>Expertise:</strong> Natural language processing, Generative AI, Machine learning operations</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/nicolo.png" alt="Nicolò Cosimo Albanese" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>📊 Nicolò Cosimo Albanese</h4>
+<p><strong>Data Scientist and Machine Learning Engineer</strong> at Amazon Web Services Professional Services</p>
+<p>🎓 <strong>Education:</strong> Master of Science in Engineering, Postgraduate degrees in Machine Learning and Biostatistics<br>
+🎯 <strong>Specialization:</strong> AI/ML solutions for enterprise customers, Statistical modeling, Cloud technologies</p>
+</td>
+</tr>
+</table>
+
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/bose.png" alt="Subhro Bose" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🏗️ Subhro Bose</h4>
+<p><strong>Data Architect</strong> in Emergent Technologies and Intelligence Platform at Amazon</p>
+<p>🎯 <strong>Focus:</strong> Emergent technologies (AI/ML, Big Data, Quantum)<br>
+💼 <strong>Mission:</strong> Helping businesses across different industry verticals succeed in their innovation journey</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/diar.jpg" alt="Diar Sabri" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🤖 Diar Sabri</h4>
+<p><strong>Machine Learning Engineer</strong> at AWS</p>
+<p>🎯 <strong>Specialization:</strong> Business transformation through innovative AI solutions<br>
+🌉 <strong>Expertise:</strong> Bridging strategic vision and practical technology implementation</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/amna.jpg" alt="Aamna Najmi" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🧠 Aamna Najmi</h4>
+<p><strong>GenAI and Data Specialist</strong> at AWS</p>
+<p>🎯 <strong>Focus:</strong> Operationalizing and governing generative AI systems at scale<br>
+🛡️ <strong>Standards:</strong> Performance, safety, and ethical considerations<br>
+🍽️ <strong>Passion:</strong> Experimenting with food and discovering new places</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/14/image007-1.jpg" alt="Anwar Rizal" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🇫🇷 Anwar Rizal</h4>
+<p><strong>Senior Machine Learning Consultant</strong> for AWS Professional Services (Paris)</p>
+<p>🎯 <strong>Focus:</strong> Data and AI solutions for sustainable business growth<br>
+🌍 <strong>Location:</strong> Based in Paris, France</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/amer.jpg" alt="Amer Elhabbash" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>💼 Amer Elhabbash</h4>
+<p><strong>Senior Data & AI Delivery Consultant</strong> with AWS Professional Services</p>
+<p>📅 <strong>Experience:</strong> 25+ years of international experience in IT<br>
+🔧 <strong>Domains:</strong> Telecommunication, Software Engineering, Database, Data Analytics and AI<br>
+🎯 <strong>Specialization:</strong> Legacy data systems migration and cloud-native data-driven solutions</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/hassen.jpg" alt="Hassen Riahi" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🎓 Hassen Riahi</h4>
+<p><strong>Delivery Practice Manager Data & AI</strong> at AWS Professional Services</p>
+<p>🎓 <strong>Education:</strong> PhD in Mathematics & Computer Science on large-scale data management<br>
+🤝 <strong>Role:</strong> Collaborates with AWS customers to build data-driven solutions</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/Marco.jpg" alt="Dr. Marco Guerriero" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🔬 Dr. Marco Guerriero</h4>
+<p><strong>Leader of Data and GenAI</strong> at AWS Professional Services for France and Europe South</p>
+<p>🎓 <strong>Education:</strong> Ph.D. in Electrical and Computer Engineering from University of Connecticut<br>
+🏢 <strong>Experience:</strong> NATO, GE, ABB across defense, manufacturing, energy, and industrial automation<br>
+📚 <strong>Publications:</strong> 60+ publications and 5 US patents<br>
+🎯 <strong>Focus:</strong> GenAI and Quantum computing for business innovation</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/Sri-Elaprolu.jpg" alt="Sri Elaprolu" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🚀 Sri Elaprolu</h4>
+<p><strong>Director</strong> of the AWS Generative AI Innovation Center</p>
+<p>👥 <strong>Leadership:</strong> Global team implementing cutting-edge AI solutions for enterprise and government<br>
+📅 <strong>AWS Tenure:</strong> 12 years leading ML science teams<br>
+🤝 <strong>Partners:</strong> NFL, Cerner, NASA<br>
+🎓 <strong>Education:</strong> Master's in Engineering Science and MBA<br>
+🏢 <strong>Previous:</strong> 14 years at Northrop Grumman</p>
+</td>
+</tr>
+</table>
+
+<table class="author-table">
+<tr>
+<td width="120">
+<img src="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2025/04/15/boca.jpg" alt="Dragica Boca" width="100" style="border-radius: 50%;">
+</td>
+<td>
+<h4>🌍 Dragica Boca</h4>
+<p><strong>Managing Director</strong> of Professional Services EMEA at Amazon Web Services (AWS)</p>
+<p>📅 <strong>Experience:</strong> 30 years of technology consulting across Microsoft and IBM Global Business Services<br>
+🎯 <strong>Specialization:</strong> Production-ready AI solutions for Public Sector and Financial Services<br>
+🌍 <strong>Current Role:</strong> Overseeing large-scale GenAI implementations across EMEA</p>
+</td>
+</tr>
+</table>
+
+---
+
+## �📖 Glossary - Thuật ngữ
 
 | English | Tiếng Việt | Định nghĩa |
 |---------|------------|------------|
