@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![AWS Generative AI](https://img.shields.io/badge/AWS-Generative%20AI-orange?style=for-the-badge&logo=amazon-aws) ![Production Ready](https://img.shields.io/badge/Production-Ready-green?style=for-the-badge) ![EMEA Region](https://img.shields.io/badge/Region-EMEA-blue?style=for-the-badge)
+![AWS Generative AI](https://img.shields.io/badge/AWS-Generative%20AI-orange?style=for-the-badge&logo=amazon-aws) ![EMEA Region](https://img.shields.io/badge/Region-EMEA-blue?style=for-the-badge)
 
 </div>
 
