@@ -152,12 +152,12 @@ Blog Translation là cơ hội để thực tập sinh:
 ```markdown
 # [Tiêu đề bài dịch tiếng Việt]
 
-> **📖 Bài viết gốc**: [Link to original article]  
-> **👤 Tác giả**: [Author name and title]  
-> **📅 Ngày xuất bản**: [Original publish date]  
-> **🌐 Nguồn**: [Publication name]  
-> **👨‍💻 Người dịch**: [Your name] - FCJ Intern  
-> **📅 Ngày dịch**: [Translation date]  
+> **📖 Bài viết gốc**: [Link to original article]
+> **👤 Tác giả**: [Author name and title]
+> **📅 Ngày xuất bản**: [Original publish date]
+> **🌐 Nguồn**: [Publication name]
+> **👨‍💻 Người dịch**: [Your name] - FCJ Intern
+> **📅 Ngày dịch**: [Translation date]
 > **⏱️ Thời gian đọc**: [Estimated reading time] phút
 
 ---
@@ -166,8 +166,8 @@ Blog Translation là cơ hội để thực tập sinh:
 
 [Tóm tắt ngắn gọn nội dung bài viết bằng tiếng Việt, 150-200 từ]
 
-**🎯 Đối tượng đọc**: [Target audience]  
-**📊 Độ khó**: [Beginner/Intermediate/Advanced]  
+**🎯 Đối tượng đọc**: [Target audience]
+**📊 Độ khó**: [Beginner/Intermediate/Advanced]
 **🏷️ Tags**: [Relevant tags]
 
 ---
@@ -233,10 +233,10 @@ Blog Translation là cơ hội để thực tập sinh:
 
 ## 🤝 Đóng góp và Feedback
 
-Bài dịch này được thực hiện trong khuôn khổ **FCJ Internship Program**. 
+Bài dịch này được thực hiện trong khuôn khổ **FCJ Internship Program**.
 
-**📧 Liên hệ**: [your-email@domain.com]  
-**💬 Feedback**: Mọi góp ý để cải thiện chất lượng dịch thuật xin gửi về email trên  
+**📧 Liên hệ**: [your-email@domain.com]
+**💬 Feedback**: Mọi góp ý để cải thiện chất lượng dịch thuật xin gửi về email trên
 **🔄 Updates**: Bài dịch sẽ được cập nhật dựa trên feedback từ cộng đồng
 
 ---
